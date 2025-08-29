@@ -1,5 +1,5 @@
 const apiKey = "d965b9b0eacc39a576dc0027920741f8"
-const kakaoKey = "a6030b233f0d5129840ecad5de0c4046"
+const kakaoKey = "cc3473ad14c6d07fae0fd80289423c3d"
 const reqUrl = "https://api.openweathermap.org/data/2.5/weather"
 const iconUrl = "https://openweathermap.org/img/wn/10d@2x.png"
 const weathers = {
